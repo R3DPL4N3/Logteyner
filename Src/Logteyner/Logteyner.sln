@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logteyner.App", "Logteyner.App\Logteyner.App.csproj", "{1D7D0708-A196-4C27-AC76-DE2805FF1426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D7D0708-A196-4C27-AC76-DE2805FF1426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7D0708-A196-4C27-AC76-DE2805FF1426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7D0708-A196-4C27-AC76-DE2805FF1426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7D0708-A196-4C27-AC76-DE2805FF1426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB74E4F-B366-406C-9657-3068C19B635D}
+	EndGlobalSection
+EndGlobal
