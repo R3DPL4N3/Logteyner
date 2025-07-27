@@ -84,4 +84,4 @@ Projeye katkı sağlamak, hata bildirmek veya özellik önermek için GitHub Iss
 
 ---
 
-Konteyner Faruk’tan selamlar ve iyi çalışmalar! 🚀
+Konteyner Faruk’tan selamlar ve iyi çalışmalar! 🚢🛡️
